@@ -981,7 +981,8 @@
   }
 
   .curve_box_section,
-  .curve_box_section_purp {
+  .curve_box_section_purp,
+  .curve-box_section_clear {
     width: 100%;
     border-radius: 0;
     box-shadow: none;
