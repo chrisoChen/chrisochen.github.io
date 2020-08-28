@@ -1,0 +1,31 @@
+.list-style-1 {
+  list-style-type: none;
+  margin-top: 5%;
+  display: block;
+}
+
+.margin-style-1 {
+  margin: 30px 0px 10px 0;
+}
+
+.hyperlink-duo-2 {
+  text-decoration: none;
+  display: grid;
+  grid-template-columns: 50px 90%;
+}
+
+/* Match first column with size of '+' and '-' icons */
+.grid-line-1 {
+  display: grid;
+  grid-template-columns: 50px auto;
+}
+
+.hr-purp {
+  position: absolute;
+  text-align: left;
+  width: 75%;
+  margin-left: 12.5px;
+  border-top: 1px solid #9d94e6;
+  border-right: 0;
+  border-left: 0;
+}
