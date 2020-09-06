@@ -1206,10 +1206,6 @@
     font-size: 1.3em;
     line-height: 25px;
   }
-
-  #phone_carousel_title {
-    font-size: 3rem;
-  }
 }
 
 @media screen and (max-width: 300px) {
