@@ -438,7 +438,7 @@
 .half_grid img {
   width: 100%;
   height: auto;
-  object-fit: scale-down;
+  object-fit: cover;
 }
 
 .half_grid_content_left {
