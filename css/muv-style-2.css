@@ -908,9 +908,9 @@
     text-align: left;
   }
 
-  /* .half_grid img {
+  .half_grid img {
     width: 80%;
-  } */
+  }
 
   .grid_title {
     margin-top: 5.5rem;
