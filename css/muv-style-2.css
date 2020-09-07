@@ -439,7 +439,7 @@
   width: 100%;
   max-width: 100%;
   height: auto;
-  object-fit: scale-down;
+  object-fit: contain;
 }
 
 .half_grid_content_left {
@@ -951,7 +951,8 @@
 
   #how_work_left img,
   #how_work_left2 img,
-  #how_work_right img {
+  #how_work_right img
+  #how_work_right2 img {
     justify-self: center;
     align-self: center;
   }
