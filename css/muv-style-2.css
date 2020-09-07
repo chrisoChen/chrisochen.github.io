@@ -899,7 +899,7 @@
 @media screen and (max-width: 768px) {
   .half_grid {
     grid-template-columns: 1fr;
-    grid-template-rows: 1fr auto;
+    grid-template-rows: repeat(2, auto);
     justify-content: center;
     align-content: center;
 
