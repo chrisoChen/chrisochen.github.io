@@ -342,7 +342,7 @@
 #vehicle_half_grid,
 #button_half_grid {
   display: grid;
-  grid-template-rows: 30rem;
+  grid-template-rows: auto;
   grid-gap: 5px;
 
   justify-content: center;
@@ -439,12 +439,15 @@
   width: 100%;
   max-width: 100%;
   height: auto;
-  object-fit: contain;
 }
 
 #how_does_section_right img {
   height: auto;
   object-fit: scale-down;
+}
+
+#custom_right {
+  width: 90%;
 }
 
 .half_grid_content_left {
